@@ -1,2 +1,2 @@
-This is a better README file \n
-The start of my CS major career :D
+This is a better README file
+The start of my CS major career
